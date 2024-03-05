@@ -6,6 +6,8 @@
 
 <br />
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejiya&count_bg=%23006C9E&title_bg=%230CB5DD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 <img align="right" height="300px" width="350px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1OHlxNm5pd3IxODlsbnk0aGppdXg2NjgxN2FvaDhqZGFoeGNiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif" />
 <p align="center">
@@ -28,5 +30,10 @@
 <br />
 
 ## 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗d 𝚃𝚘𝚘𝚕𝚜
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+![Static Badge](https://img.shields.io/badge/C%23-purple?logo=csharp)
+![Static Badge](https://img.shields.io/badge/Unity-black?logo=unity)
+![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
+
+
+
   
