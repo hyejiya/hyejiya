@@ -30,9 +30,7 @@
 <br />
 
 ## 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗d 𝚃𝚘𝚘𝚕𝚜
-![Static Badge](https://img.shields.io/badge/C%23-purple?logo=csharp)
-![Static Badge](https://img.shields.io/badge/Unity-black?logo=unity)
-![Static Badge](https://img.shields.io/badge/Git-white?logo=git)
+<img src="https://img.shields.io/badge/C%23-purple?logo=csharp" width="7%" height="2%"> <img src="https://img.shields.io/badge/Unity-black?logo=unity" width="9%" height="2%"> <img src="https://img.shields.io/badge/Git-white?logo=git" width="7%" height="2%">
 
 
 
