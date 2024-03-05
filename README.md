@@ -11,19 +11,17 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 <img align="right" height="300px" width="350px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1OHlxNm5pd3IxODlsbnk0aGppdXg2NjgxN2FvaDhqZGFoeGNiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif" />
 <p align="center">
-  <h3> I was born on September 12, 1999 
-             and Studying to be a developer from South Koera.</h3>
+  <h3> I was born on September 12, 1999 <br>
+       And Studying to be a developer from South Koera.</h3>
 </p>
 
  - 🥀 Learning C# & Unity
    
- - 🔭 SpaceX FanBoi, die for space😼
+ -  🎮 Love games
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🛸 I'm interested in Media Art 
  
- - I do fullstack and a bit of everything :heart:
- 
- - All About living life at its best.
+ - I like to learn and work hard every moment!🤩
  
  - 💬 Connect? Send E-mail 👉🏼wl0911@naver.com
 
